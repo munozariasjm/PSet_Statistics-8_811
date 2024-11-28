@@ -18,5 +18,5 @@ repo/
 
 DATA Directory:
 
-This directory contains the datasets you are working with for your project. Ensure the datasets are well-organized and named descriptively to reflect their purpose (e.g., toy_dataset.csv, smaller_peak.npy).
+This directory contains the datasets used.
 
